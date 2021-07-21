@@ -2,7 +2,7 @@
 This contains all code for all computational analyses performed for this project
 
 # Contents
-B16_TME_batch1_analys_repeat.R: TME profiling analysis of B16 tumors treated with Ad-null or Ad-SF7-Fc and profiled by spectral cytometry. Fist experiment
+B16_TME_batch1_analys_repeat.R: TME profiling analysis of B16 tumors treated with Ad-null or Ad-SF7-Fc and profiled by spectral cytometry. First experiment
 
 B16_TME_batch2_analys.R: TME profiling analysis of B16 tumors treated with Ad-null or Ad-SF7-Fc and profiled by spectral cytometry. Repeat experiment
 
